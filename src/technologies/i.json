@@ -1126,6 +1126,18 @@
     "icon": "irroba.svg",
     "website": "https://www.irroba.com.br/"
   },
+  "Istio": {
+    "cats": [
+      64
+    ],
+    "description": "Istio is an open source service mesh that layers transparently onto existing distributed applications.",
+    "headers": {
+      "Server": "istio-envoy"
+    },
+    "implies": "Envoy",
+    "icon": "Istio.svg",
+    "website": "https://istio.io/"
+  },
   "Isotope": {
     "cats": [
       59
